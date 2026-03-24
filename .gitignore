@@ -1,0 +1,6 @@
+venv
+docs
+extracted_images
+.env
+__pycache__
+.vscode

@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-openai
+langchain-postgres
+dotenv
+unstructured[pdf]
+pdfminer.six 
+pytesseract 
+pillow
+psycopg
+pgvector
+rank_bm25
